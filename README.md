@@ -1,5 +1,7 @@
 # Sakai_Aufgabe2_2024
 
+
+### Lukas Balog
 # Anwendungsfall Alarm bei Leistungsabfall
 ## Auslöser
 > Der Proband befindet sich nicht mehr über der vorgegeben Leistungsgrenze
